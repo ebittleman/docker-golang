@@ -1,4 +1,5 @@
 # Base container to build go projects
 
-Install
+Install:
+
     docker pull ebittleman/docker-golang
